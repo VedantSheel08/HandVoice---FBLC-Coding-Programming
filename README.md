@@ -1,6 +1,8 @@
 # HandVoice---FBLC-Coding-Programming
 FBLC project report: https://github.com/VedantSheel08/HandVoice---FBLC-Coding-Programming/blob/main/Sheel_CPReport2025.pdf 
+
 FBLC slideshow: https://www.canva.com/design/DAGghyEb-98/d6wKDsayvwGPN0X_teZziQ/edit
+
 Dataset and all code/files I made: https://drive.google.com/drive/folders/1anYOxiMPxFQFCIpLzAxnzurZlHNnKFZO
 
 # Social Issue
